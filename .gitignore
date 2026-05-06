@@ -10,7 +10,6 @@
 *.userosscache
 *.sln.docstates
 
-music/*
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
