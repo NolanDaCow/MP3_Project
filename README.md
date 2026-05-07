@@ -2,7 +2,7 @@
 
 A simple MP3 player application built in C# with a Windows Forms GUI.
 
-#IMPORTANT
+# IMPORTANT
 
 The MP3 player does not come with MP3 files, you must source your own audio files.
 
